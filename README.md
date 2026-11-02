@@ -2,6 +2,10 @@
 
 A responsive movie discovery web application built with React, TypeScript, TanStack Query, and Tailwind CSS. It fetches popular movie data from The Movie Database (TMDB) API, displays items in a responsive grid, and provides interactive card states.
 
+<p align="center">
+  <img src="./screenshot.png" alt="Movie Discovery App Screenshot" width="700" />
+</p>
+
 ## Features
 
 - **TMDB API Integration**: Fetches movie data from the `/discover/movie` endpoint.
@@ -27,5 +31,5 @@ A responsive movie discovery web application built with React, TypeScript, TanSt
 ### Quick Start
 
 ```bash
-# 1. Install dependencies and start the local dev server
+# Install dependencies and start the local dev server
 npm i && npm start
